@@ -1,4 +1,7 @@
 # Samyr Moreira
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyyrmoreira23@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521976436056)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyr-moreira-14ba12286)
 # 👋 Olá! Eu sou Samyr
 
 💻 Desenvolvedor em formação  
