@@ -14,7 +14,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 🚀 Confira alguns projetos, experiências e soluções em tecnologia:
 
-[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-Visitar_Site-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://samyrdev.netlify.app/)
+[![Meu Portfólio](https://img.shields.io/badge/MEU_PORTF%C3%93LIO-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://samyrdev.netlify.app/)
 
 ---
 
