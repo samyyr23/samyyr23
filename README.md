@@ -10,6 +10,14 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 ---
 
+## 🌐 Meu Portfólio
+
+🚀 Confira alguns projetos, experiências e soluções em tecnologia:
+
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-Visitar_Site-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://samyrdev.netlify.app/)
+
+---
+
 ## 🌐 Conecte-se comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyyrmoreira23@gmail.com)
@@ -87,15 +95,6 @@ Algumas das soluções e experiências que fazem parte da minha trajetória:
 - Fundamentos de Cloud e IA Generativa — AWS Treina Brasil
 - Internet das Coisas (IoT), IA e Revolução Conectada — PUCRS
 - Agentes de IA com n8n — Hashtag Treinamentos
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=samyyr23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyyr23&layout=compact&theme=tokyonight"/>
-</div>
 
 ---
 
