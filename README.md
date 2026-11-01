@@ -85,16 +85,16 @@ Algumas das soluções e experiências que fazem parte da minha trajetória:
 🎓 **Bacharelado em Engenharia de Software** — Estácio (em andamento)
 
 ### Cursos e formações relevantes
-- Especialista em Inteligência Artificial e Dados — Alura
-- Formação em React — Rocketseat
-- Full Stack Pro — DevClub
-- Java e Inteligência Artificial — DIO + Itaú
-- Cibersegurança do Zero à Prática — DIO + Santander
-- Java AI Copilot — DIO + CI&T
-- FluêncIA em Inteligência Artificial — Microsoft
-- Fundamentos de Cloud e IA Generativa — AWS Treina Brasil
-- Internet das Coisas (IoT), IA e Revolução Conectada — PUCRS
-- Agentes de IA com n8n — Hashtag Treinamentos
+- Especialista em Inteligência Artificial e Dados - Alura
+- Formação em React - Rocketseat
+- Full Stack Pro - DevClub
+- Java e Inteligência Artificial - DIO + Itaú
+- Cibersegurança do Zero à Prática - DIO + Santander
+- Java AI Copilot - DIO + CI&T
+- FluêncIA em Inteligência Artificial - Microsoft
+- Fundamentos de Cloud e IA Generativa - AWS Treina Brasil
+- Internet das Coisas (IoT), IA e Revolução Conectada - PUCRS
+- Agentes de IA com n8n - Hashtag Treinamentos
 
 ---
 
