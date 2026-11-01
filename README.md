@@ -82,7 +82,7 @@ Algumas das soluções e experiências que fazem parte da minha trajetória:
 
 ## 🎓 Formação e desenvolvimento
 
-🎓 **Bacharelado em Engenharia de Software** — Estácio (em andamento)
+🎓 **Bacharelado em Engenharia de Software** - Estácio (em andamento)
 
 ### Cursos e formações relevantes
 - Especialista em Inteligência Artificial e Dados - Alura
